@@ -1,6 +1,12 @@
 # Project Presenation Content Lab
 
-Using the questions and points from your **audience questions**, the **story telling key points**, and the **project outline** drafted in an earlier exercise; now you can focus on enhancing your own student projects. Here are the guiding questions we used inn  the last section:
+Using the questions and points from your **audience questions**, the **story telling key points**, and the **project outline** drafted in an earlier exercise; now you can focus on enhancing your own student projects. 
+
+## Learning goal:
+- Apply content review techniques to your own presentation material and revise its contents
+
+
+Here are the guiding questions we used inn  the last section:
 
 ## Audience Questions
 
