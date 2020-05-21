@@ -41,3 +41,5 @@ With a slide for each point, at a minimum you should have:
 - [ ] evaluation & future improvement ideas (easily more than one slide)
 - [ ] contact info. (1 slide)
   
+
+## Save your updated content when complete. You will focus on slide design in the next section.
