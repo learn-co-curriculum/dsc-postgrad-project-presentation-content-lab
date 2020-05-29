@@ -1,4 +1,4 @@
-# Project Presentation Content - Lab
+# Project Presentations - Lab
 
 ## Introduction
 
